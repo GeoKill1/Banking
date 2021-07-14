@@ -8,6 +8,7 @@ db.once('open', function(){
     // dbCreate('James', '854')
     dbUpdate('60e5ee27333203568c638c26', {password:'111'})
     dbUpdate('60e5f01be7f61c4c2851e526', {username: 'JamesR'})
+    //comment test
 
 })
 function dbCreate(username, password, gender, emailaddress){
