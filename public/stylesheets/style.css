@@ -1,0 +1,34 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+label {
+  border: 5px solid white;
+  background: white;
+}
+
+button {
+  margin-left: 40px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 300 !important;
+  border-radius: 50%;
+  background-color: lightblue;
+  font-family: "Comfortaa";
+  width: 100px;
+}
+
+button:hover {
+  background-color: blue;
+  color: white;
+  
+}
+
+
+
+
